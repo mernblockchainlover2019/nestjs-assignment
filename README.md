@@ -6,6 +6,13 @@
 ## Installation
 
 ```bash
+# Clone this repositry
+$ git clone https://github.com/mernblockchainlover2019/nestjs-assignment.git
+
+# Copy .env.example into .env
+$ cp .env.example .env
+
+# Install package dependencies
 $ npm install
 ```
 
